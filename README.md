@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`]
+This is my first project POSTA
 ## Getting Started
 
 First, run the development server:
